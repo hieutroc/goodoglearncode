@@ -64,7 +64,7 @@
 
           -    Cấu trúc dữ liệu hợp (Tuple): Một cấu trúc dữ liệu cho phép lưu trữ nhiều giá trị khác nhau trong một đối tượng.
 
-            -    Cấu trúc dữ liệu hàng đợi ưu tiên (Priority Queue): Một cấu trúc dữ liệu tương tự hàng đợi, nhưng mỗi phần tử được gán một mức ưu tiên và phần tử có mức ưu tiên cao sẽ được xử lý trước.
+          -    Cấu trúc dữ liệu hàng đợi ưu tiên (Priority Queue): Một cấu trúc dữ liệu tương tự hàng đợi, nhưng mỗi phần tử được gán một mức ưu tiên và phần tử có mức ưu tiên cao sẽ được xử lý trước.
 
        * Đây chỉ là một số ví dụ về các kiểu cấu trúc dữ liệu phổ biến. Còn rất nhiều kiểu cấu trúc dữ liệu khác, mỗi loại có ứng dụng và đặc điểm riêng
 
