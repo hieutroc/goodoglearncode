@@ -7,5 +7,3 @@ console.log(
 );
 console.log(server.sort([3, 2, 1, 5]));
 
-
-c

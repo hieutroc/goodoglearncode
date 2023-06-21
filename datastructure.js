@@ -496,8 +496,7 @@ function fetchDataa() {
 //   })
 //   .catch(function (error) {
 //     console.error("Đã xảy ra lỗi: " + error);
-//   });
-
+//   })
 // ----------------------------------------------
 
 // ASYNC/AWAIT
