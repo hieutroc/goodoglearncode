@@ -455,7 +455,7 @@ function outerFunction() {
 }
 
 var myClosure = outerFunction(); // Gọi outerFunction và lưu trữ kết quả (một closure) vào biến myClosure
-// myClosure(); // Khi gọi myClosure, "Hello" được in ra màn hình
+myClosure(); // Khi gọi myClosure, "Hello" được in ra màn hình
 
 // --------------------------------------------------------------------------
 //  CALLBACK IN JAVASCRIPT
@@ -471,7 +471,7 @@ function processData(data) {
   console.log("Dữ liệu đã được xử lý: " + data);
 }
 
-// fetchData(processData); // Gọi fetchData và truyền hàm processData làm callback
+fetchData(processData); // Gọi fetchData và truyền hàm processData làm callback
 
 // --------------------------------------------------------------------------
 // PROMISE IN JAVASCRIPT

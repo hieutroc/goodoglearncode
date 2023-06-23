@@ -17,6 +17,7 @@
        -    Trong JavaScript, callback (hàm gọi lại) là một khái niệm quan trọng liên quan đến việc truyền một hàm như một đối số cho một hàm khác và được gọi lại sau khi một quá trình hoặc một sự kiện nào đó hoàn thành.
 
        -    Callback cho phép xử lý bất đồng bộ trong JavaScript, nghĩa là bạn có thể tiếp tục thực thi mã mà không phải chờ đợi một tác vụ hoàn thành. Khi tác vụ hoàn thành, callback sẽ được gọi để xử lý kết quả hoặc tiếp tục thực thi mã.
+
        -    Callback là một khái niệm quan trọng trong việc xử lý các tác vụ bất đồng bộ, gọi API, xử lý sự kiện và nhiều tình huống khác trong JavaScript. Nó cho phép mã của bạn trở nên linh hoạt và không chặn mã khác trong quá trình chờ đợi.
 
   },
@@ -223,4 +224,5 @@
   }
 
 }
+
 # goodoglearncode
